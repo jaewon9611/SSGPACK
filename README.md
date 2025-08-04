@@ -105,7 +105,13 @@
 
 ## 📞 CONTACT & Links
 
-- 📧 Email: wodnjs0610@naver.com  
-- 💼 GitHub: https://github.com/jaewon9611
+-  Email: wodnjs0610@naver.com  
+-  GitHub: https://github.com/jaewon9611
+-  전체 프로젝트 GitHub:https://github.com/yoon0416/ssgpack
 
 ---
+
+🎬 시연 영상
+▶️ [시연 영상 보러가기](https://www.youtube.com/watch?v=nX0wIDsvyUM)
+
+※ 상세 기능 영상은 2차/3차 프로젝트에 포함되어 있습니다.
