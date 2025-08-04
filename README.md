@@ -15,13 +15,14 @@
 
 ---
 
-## 🛠️ 주요 기술 스택
+## 🛠️ 주요 기술 스택 및 실무 활용 역량
 
-| 영역         | 사용 기술                                      |
-|--------------|-------------------------------------------------|
-| **Backend**  | Java 11, Spring Boot 2.7.14, JPA(Hibernate), Maven |
-| **Frontend** | Thymeleaf, Bootstrap, JavaScript                |
-| **Database** | MySQL 8                                         |
+| 영역         | 사용 기술                                      | 실무 활용 역량 설명 |
+|--------------|-------------------------------------------------|---------------------|
+| **Backend**  | Java 11, Spring Boot 2.7.14, JPA(Hibernate), Maven | RESTful API 설계 및 구현<br>JPA를 통한 엔티티 매핑 및 연관관계 처리<br>외부 API 연동 및 크롤링 데이터 처리<br>Maven을 활용한 의존성 관리 및 빌드 설정 |
+| **Frontend** | Thymeleaf, Bootstrap, JavaScript                | Thymeleaf 템플릿을 통한 서버사이드 렌더링 구현<br>Bootstrap 기반 반응형 UI 개발<br>JavaScript로 FullCalendar 및 날씨 위젯 동적 제어 |
+| **Database** | MySQL 8                                         | 경기 일정/요약/날씨 등 도메인 기반 DB 설계<br>JPA 기반 CRUD 및 트랜잭션 처리<br>쿼리 튜닝 및 데이터 정합성 확보 |
+
 
 ---
 
