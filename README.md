@@ -16,6 +16,14 @@
 
 ---
 
+## 📞 CONTACT & Links
+
+-  Email: wodnjs0610@naver.com  
+-  GitHub: https://github.com/jaewon9611
+-  전체 프로젝트 GitHub:https://github.com/yoon0416/ssgpack
+
+---
+
 ## 🛠️ 기술 스택 및 실무 역량
 
 | 영역         | 사용 기술                                      | 실무 적용 역량 |
@@ -100,14 +108,6 @@
 - 빠른 습득력과 높은 문제 해결 집중력  
 - 기능 구현뿐만 아니라 사용자와 팀을 고려한 개발  
 - 혼자서도 기능 완성 가능, 팀원과도 유연한 협업 가능
-
----
-
-## 📞 CONTACT & Links
-
--  Email: wodnjs0610@naver.com  
--  GitHub: https://github.com/jaewon9611
--  전체 프로젝트 GitHub:https://github.com/yoon0416/ssgpack
 
 ---
 
